@@ -1,1 +1,2 @@
-# tp_oraciones
+- El perro ladra
+- El gato es blanco
